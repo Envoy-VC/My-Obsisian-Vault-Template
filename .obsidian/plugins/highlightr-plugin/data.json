@@ -1,0 +1,10 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Yellow": "#F8FF0094"
+  },
+  "highlighterOrder": [
+    "Yellow"
+  ]
+}

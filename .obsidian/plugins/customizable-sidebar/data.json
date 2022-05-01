@@ -1,0 +1,11 @@
+{
+  "sidebarCommands": [],
+  "hiddenCommands": [
+    "Open today's daily note",
+    "Open Markdown importer",
+    "Templater",
+    "Open quick switcher",
+    "Open command palette",
+    "Advanced Tables Toolbar"
+  ]
+}

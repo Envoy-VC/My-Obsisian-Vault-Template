@@ -1,0 +1,18 @@
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "autofading-ui",
+    "custom-icons-for-frontmatter-tags",
+    "nicer-checkboxes",
+    "stylish-blockquotes",
+    "custom-button",
+    "blockquote",
+    "button",
+    "emoji-in-folder-name",
+    "tag-pills",
+    "graph nodes",
+    "Gutter line numbers"
+  ],
+  "baseFontSizeAction": true
+}

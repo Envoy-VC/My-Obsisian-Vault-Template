@@ -1,0 +1,10 @@
+.view-header:not(:hover) .view-actions {
+    opacity: 0.1;
+    transition: opacity 0.25s ease-in-out;
+}
+
+/* auto fades status bar items */
+.status-bar:not(:hover) .status-bar-item {
+    opacity: 0.25;
+    transition: opacity 0.25s ease-in-out;
+}

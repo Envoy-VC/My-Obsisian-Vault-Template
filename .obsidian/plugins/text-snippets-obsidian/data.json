@@ -1,0 +1,16 @@
+{
+  "snippets_file": "ceqn : \\(\\ce{}\\)\nankitemp : START Theory END",
+  "snippets": [
+    "ceqn : \\(\\ce{}\\)",
+    "ankitemp : START Theory END"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": false,
+  "isWYSISWYG": true
+}
