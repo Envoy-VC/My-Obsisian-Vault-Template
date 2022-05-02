@@ -69,3 +69,7 @@
 <br>
 
 ---
+
+<br>
+
+If you have any questions regarding the Vault or how to use templates or plugins your can create an Issue with `Question Regarding Vault` template [here](https://github.com/Envoy-VC/My-Obsisian-Vault-Template/issues/new/choose)
