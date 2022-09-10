@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "9664db1e5b629c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "18696f2f96593850",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📰 Dashboard.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93be4f9218018809",
+    "type": "split",
+    "children": [
+      {
+        "id": "231d8af6a88f9413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a1014517b463e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#watched",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f387267baf2a8959",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309
+  },
+  "right": {
+    "id": "886a58cabaec3d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "276efb7cf591aadb",
+        "type": "tabs",
+        "dimension": 64.80162767039674,
+        "children": [
+          {
+            "id": "a87da9d5ca39c5d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d0b7c58980a9835f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.6,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.41905738115413177,
+                  "close": true
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "64ba09a3520d2a69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "ce2d9e8de6bf0502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "198efc4721b6bee2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📰 Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bee0133d32a99a6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📰 Dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "146b5550fbd86113",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba15f50ca041181b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb690d7361d27c49",
+        "type": "tabs",
+        "dimension": 35.19837232960326,
+        "children": [
+          {
+            "id": "b2c1d31ce23823eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383
+  },
+  "active": "18696f2f96593850",
+  "lastOpenFiles": [
+    "📰 Dashboard.md",
+    "Dashboards/🎯 2022 Goals and Reflections.md",
+    "Templates/🪣 New Bucket List.md",
+    "Templates/🧠 New brain dump.md",
+    "Templates/🗓 Daily Note.md",
+    "Templates/🗒 Basic Note.md",
+    "Templates/📰 New Dashboard.md",
+    "Templates/📙 New Reading Item.md",
+    "Templates/📔 New Artist.md",
+    "Templates/📓 New Notebook.md"
+  ]
+}

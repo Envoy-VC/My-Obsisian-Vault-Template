@@ -1,0 +1,51 @@
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-hashtag-end:before {
+  content: '#';
+}
+
+.tag,
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-hashtag-end {
+  background-color: var(--text-accent);
+  border: none;
+  color: white !important;
+  font-size: 14px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none !important;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+
+.tag:not(.token):hover {
+  color: white;
+  background-color: var(--text-accent-hover);
+}
+
+.tag[href^="#obsidian"] {
+  background-color: #4d3ca6;
+}
+
+.tag[href^="#Yes"] {
+  background-color: #17e633ad;
+}
+
+.tag[href^="#No"] {
+  background-color: #e61717ad;
+}
+
+.tag[href^="#OK"] {
+  background-color: #17e6caad;
+}
+
+.tag[href^="#Effective"] {
+  background-color: #28ee16ad;
+}
+
+.tag[href^="#Low"] {
+  background-color: #e47916ad;
+}
+
+.tag[href^="#Very-Low"] {
+  background-color: #ec0b0bad;
+}

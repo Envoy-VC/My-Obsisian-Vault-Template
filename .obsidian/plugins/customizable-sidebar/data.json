@@ -1,0 +1,14 @@
+{
+  "sidebarCommands": [],
+  "hiddenCommands": [
+    "Open Markdown importer",
+    "Templater",
+    "Open quick switcher",
+    "Open command palette",
+    "Open today's daily note"
+  ],
+  "pinSidebar": {
+    "right": true,
+    "left": true
+  }
+}

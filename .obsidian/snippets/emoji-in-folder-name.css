@@ -1,0 +1,72 @@
+.nav-folder-title[data-path="Daily Log"] .nav-folder-title-content::before {
+  content: "🗓 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Attachments"] .nav-folder-title-content::before {
+  content: "🖇 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Templates"] .nav-folder-title-content::before {
+  content: "⏣ ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="People"] .nav-folder-title-content::before {
+  content: "👨‍👧‍👦 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Library"] .nav-folder-title-content::before {
+  content: "📖 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Seed Box"] .nav-folder-title-content::before {
+  content: "🌱 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Journal"] .nav-folder-title-content::before {
+  content: "📒 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Notebooks"] .nav-folder-title-content::before {
+  content: "📔 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Notebooks/My Favorite Artists"]
+  .nav-folder-title-content::before {
+  content: "🎵 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Life"] .nav-folder-title-content::before {
+  content: "⚛️ ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Life/Bucket List"]
+  .nav-folder-title-content::before {
+  content: "🪣 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Life/Travel"] .nav-folder-title-content::before {
+  content: "✈ ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Life/brain dump"]
+  .nav-folder-title-content::before {
+  content: "🧠 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="Dashboards"] .nav-folder-title-content::before {
+  content: "📰 ";
+  font-size: 1.3em;
+}

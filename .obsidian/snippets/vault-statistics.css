@@ -1,0 +1,4 @@
+/* Show all vault statistics. */
+.obsidian-vault-statistics--item {
+  display: initial !important;
+}

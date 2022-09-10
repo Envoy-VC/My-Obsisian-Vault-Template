@@ -1,0 +1,11 @@
+{
+  "buttons-styles@@button-text@@light": "#FFFFFF",
+  "buttons-styles@@button-background@@light": "#DD00FF",
+  "buttons-styles@@button-border@@light": "#000000",
+  "buttons-styles@@button-border-radius": 10,
+  "buttons-styles@@button-size": 2,
+  "buttons-styles@@button-box-shadow@@dark": "#F5F6F8",
+  "buttons-styles@@button-background@@dark": "#A765DC",
+  "buttons-styles@@button-text@@dark": "#F5F6F8",
+  "buttons-styles@@button-border@@dark": "#000000"
+}

@@ -1,0 +1,16 @@
+{
+  "show-checkboxes": false,
+  "date-format": "DD-MM-YYYY",
+  "date-display-format": "DD-MM-YYYY",
+  "link-date-to-daily-note": false,
+  "hide-card-count": true,
+  "new-note-template": "Templates/🗒 Basic Note.md",
+  "metadata-keys": [
+    {
+      "metadataKey": "description",
+      "label": "Description",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    }
+  ]
+}

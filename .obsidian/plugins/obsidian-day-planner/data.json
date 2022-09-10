@@ -1,0 +1,28 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Daily Log/15082022.md",
+      "date": "Mon Aug 15 2022"
+    },
+    {
+      "notePath": "Daily Log/16082022.md",
+      "date": "Tue Aug 16 2022"
+    },
+    {
+      "notePath": "Daily Log/17082022.md",
+      "date": "Wed Aug 17 2022"
+    },
+    {
+      "notePath": "Daily Log/18082022.md",
+      "date": "Thu Aug 18 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

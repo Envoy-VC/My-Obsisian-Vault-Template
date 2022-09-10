@@ -1,0 +1,48 @@
+{
+  "feeds": [],
+  "updateTime": 60,
+  "filtered": [
+    {
+      "name": "Favorites",
+      "read": true,
+      "unread": true,
+      "filterTags": [],
+      "filterFolders": [],
+      "filterFeeds": [],
+      "ignoreTags": [],
+      "ignoreFeeds": [],
+      "ignoreFolders": [],
+      "favorites": true,
+      "sortOrder": "ALPHABET_NORMAL"
+    }
+  ],
+  "saveLocation": "default",
+  "displayStyle": "cards",
+  "saveLocationFolder": "",
+  "items": [],
+  "dateFormat": "YYYY-MM-DDTHH:mm:SS",
+  "template": "---\nlink: {{link}}\nauthor: {{author}}\npublished: {{published}}\ntags: [{{tags:,}}]\n---\n# Highlights\n{{highlights}}\n\n---\n# {{title}}\n{{content}}",
+  "pasteTemplate": "## {{title}}\n{{content}}",
+  "askForFilename": true,
+  "defaultFilename": "{{title}}",
+  "autoSync": false,
+  "hotkeys": {
+    "create": "n",
+    "paste": "v",
+    "copy": "c",
+    "favorite": "f",
+    "read": "r",
+    "tags": "t",
+    "open": "o",
+    "tts": "s",
+    "previous": "ArrowLeft",
+    "next": "ArrowRight"
+  },
+  "folded": [],
+  "renamedText": {
+    "filtered_folders": "",
+    "folders": "",
+    "no_folder": ""
+  },
+  "displayMedia": true
+}
